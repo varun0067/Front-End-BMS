@@ -1,0 +1,32 @@
+.education-loan{
+    background-color: rgb(233, 208, 243);
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 1rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+th,td{
+    padding:20px;
+    text-align: center;
+}
+.personal-loan{
+    background-color: rgb(179, 235, 204);
+    padding:30px;
+    margin-top: 50px;
+    border-radius: 1rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
